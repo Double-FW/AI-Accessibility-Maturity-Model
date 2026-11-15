@@ -1,6 +1,6 @@
-# Managing an accessibility programme with the four resources
+# Connecting maturity assessment with programme delivery
 
-This is an editorial routing guide, not an adopted operating model. Use the four sources together while preserving their separate purposes, evidence and authority. A programme coordinates capability and decisions; operational owners still deliver and remain accountable for their services.
+This routing guide connects the version-2.0.0 pilot assessment method with four core programme resources and the wider Double FW delivery crosswalk. It is not an adopted organisational operating model. Use the sources together while preserving their separate purposes, evidence and authority. A programme coordinates capability and decisions; operational owners still deliver and remain accountable for their services.
 
 https://github.com/Double-FW/The-Little-Book-of-Accessibility
 https://github.com/Double-FW/Inclusion-and-Accessibility-Policy
@@ -69,3 +69,11 @@ Keep network health, capability maturity, policy delivery, technical findings an
 An executive review should answer: what changed, for whom, in which contexts, what evidence supports the claim, what remains blocked or unknown, who owns the next action and what decision or resource is needed. Do not make the programme dashboard an individual employee performance ranking or a disability-profiling system.
 
 Use policy human/AI RACIs together where AI is involved. An agent can organise records and draft reports within authorisation, but a generated A, approval field or confident summary is not human accountability, confirmed adoption or operational enforcement.
+
+## Assessment-to-programme handoff in version 2.0.0
+
+Use the [assessment runbook](ASSESSMENT_RUNBOOK.md) to create the brief and evidence profile, [criteria](ASSESSMENT_CRITERIA.md) for scoped level decisions, and [templates](templates/README.md) for actual records. The [delivery crosswalk](DOUBLE_FW_DELIVERY_CROSSWALK.md) extends the four-resource route to 15 public Double FW collections; source revisions and ownership remain explicit.
+
+A01–A05 establish assessment scope, evidence, provisional findings and authorised decisions. A06 hands an outcome-led improvement plan to real receiving owners and existing programme workflows. A07 reports capability, technical findings, human outcomes and any authorised legal conclusion separately. A08 verifies implementation/retest and reopens affected claims after change. A maturity assessor does not inherit operational accountability or certify a service.
+
+Keep budgets, dates, staffing and decisions proposed until actual authority confirms them. Repair urgent barriers while the method is piloted; do not wait for a higher maturity level or create unnecessary committees. Check [validation/adoption status](VALIDATION_AND_ADOPTION.md) before operational claims.
