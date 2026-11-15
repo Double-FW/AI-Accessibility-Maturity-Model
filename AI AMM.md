@@ -1,5 +1,9 @@
 # AI-Ready Accessibility Maturity Model
 
+**Version 2.0.0 · Draft for practitioner pilot · 15 November 2026**
+
+This narrative is read with [scope/authority](MODEL_SCOPE_AND_AUTHORITY.md), the [36 strands and 30 level cells](ASSESSMENT_CRITERIA.md), [assessment runbook](ASSESSMENT_RUNBOOK.md), [measurement method](MEASUREMENT_AND_COMPARABLE_EXPERIENCE.md) and [validation/adoption status](VALIDATION_AND_ADOPTION.md). The six dimensions and five levels are unchanged. The current criteria specify level decisions; this narrative alone is not a scoring rubric or evidence of effectiveness.
+
 A framework for embedding accessibility, inclusion, governance, and comparable human experience into AI-enabled organisations.
 
 ## On this page
@@ -20,13 +24,13 @@ A framework for embedding accessibility, inclusion, governance, and comparable h
 
 # Introduction
 
-Accessibility maturity models were originally designed to help organisations understand how effectively accessibility was embedded into governance, culture, delivery, procurement, and operational practice. Traditionally, these models focused heavily on websites, applications, policy frameworks, training, and compliance processes.
+Established accessibility maturity models, including those from W3C and AbilityNet, address organisational capability, governance, culture, delivery and procurement beyond technical audits. Double FW builds on that organisational purpose with explicit comparable-experience outcomes and governance for AI-enabled work. The external relationships and limitations are recorded in [the coverage register](EXTERNAL_MODEL_COVERAGE.md).
 
 Those foundations still matter. However, organisations are now operating inside environments that are increasingly shaped by artificial intelligence, automation, predictive systems, machine-generated content, algorithmic decision-making, and continuously evolving digital ecosystems.
 
 This changes the role of accessibility maturity significantly.
 
-Accessibility can no longer be treated as a static technical requirement applied at the end of delivery. AI-enabled organisations now create experiences dynamically through systems that continuously learn, adapt, prioritise, and automate decisions at scale.
+Accessibility must be considered throughout delivery and operation. AI-enabled services can change through generated output, model or configuration updates, adaptation and automated decisions. Not every AI system continuously learns in production; assess the actual behaviour, change process and people affected.
 
 In this environment, accessibility maturity becomes a measure of whether an organisation is capable of producing inclusive outcomes consistently across:
 - customer experiences
@@ -46,11 +50,11 @@ Most importantly, the model must evaluate whether disabled people experience com
 
 # Why accessibility maturity must evolve for AI-enabled organisations
 
-Traditional accessibility maturity models were largely designed for stable digital environments. Organisations assessed accessibility through audits, procurement reviews, accessibility statements, and periodic remediation exercises.
+Organisational maturity methods already support ongoing governance and improvement. This model makes AI use, supplier/model changes, human oversight, ethical evidence and complete customer/employee experience explicit within that continuing work.
 
 AI changes both the speed and scale at which exclusion can occur.
 
-An inaccessible webpage may create a barrier within a single interaction. An inaccessible AI-enabled operational system may influence thousands or millions of interactions simultaneously across recruitment, support services, internal operations, communications, customer journeys, and decision-making systems.
+Both conventional digital services and AI-enabled systems can create barriers at scale. AI can add risks through generated content, models, data/proxy assumptions and automated actions across recruitment, support, communications and operational decisions. Evaluate the actual use rather than assuming scale or harm from a technology label.
 
 The nature of accessibility risk therefore changes fundamentally.
 
@@ -65,7 +69,7 @@ These forms of exclusion are often difficult to detect through traditional acces
 - organisational incentives
 - behavioural modelling
 
-Accessibility maturity must therefore evolve from a compliance-centred framework into an operational inclusion framework capable of governing continuously changing systems.
+The Double FW approach therefore combines applicable conformance, organisational capability and comparable human experience, including governance for changing AI uses. It does not discard technical or legal evidence.
 
 ---
 
@@ -109,7 +113,7 @@ AI systems increasingly influence:
 - operational prioritisation
 - decision-making
 
-An organisation cannot claim accessibility maturity if its AI systems produce exclusionary outcomes.
+A maturity claim must address actual exclusionary outcomes and the capability to detect, challenge, correct and prevent them. Do not average unmanaged harm away. A managed incident is not proof that every organisational capability is absent; preserve the affected scope, response and residual consequences.
 
 ---
 
@@ -251,7 +255,7 @@ Importantly, mature organisations recognise that disability-related data is high
 Measurement practices therefore evolve towards:
 - consent-based insight gathering
 - ethical data governance
-- representative research participation
+- accessible, relevant research participation with coverage and representativeness limits disclosed
 - transparent analytics practices
 - privacy-aware operational monitoring
 
@@ -285,7 +289,7 @@ Accessibility considerations increasingly include:
 - disability-aware testing
 - inclusive training datasets
 
-At higher maturity levels, organisations use AI itself to improve accessibility through:
+Where justified by purpose and evidence, organisations may use AI to improve accessibility through:
 - predictive monitoring
 - automated captioning
 - content adaptation
@@ -293,7 +297,7 @@ At higher maturity levels, organisations use AI itself to improve accessibility 
 - assistive interaction support
 - personalised accessibility features
 
-However, mature organisations also recognise that AI-generated accessibility solutions require human oversight and continuous evaluation.
+AI-generated accessibility support requires appropriate human oversight and continuing evaluation. Justified non-use, suspension, replacement and retirement can also demonstrate maturity. No-deployment findings are labelled readiness only; they cannot establish live AI outcomes.
 
 ---
 
@@ -301,7 +305,7 @@ However, mature organisations also recognise that AI-generated accessibility sol
 
 This dimension evaluates whether organisations can govern inclusion responsibly across complex systems.
 
-Low-maturity organisations often focus narrowly on legal compliance while overlooking broader ethical risks associated with exclusion, bias, automation, and operational harm.
+A low-maturity pattern may leave ethical risks from exclusion, bias, automation and operational harm unmanaged even where some compliance work exists. Actual findings require evidence, not an assumption about an organisation’s intentions.
 
 Mature organisations increasingly recognise that accessibility failures create:
 - governance risks
@@ -371,9 +375,9 @@ Accessibility increasingly influences product quality, operational quality, cust
 
 Accessibility becomes part of organisational identity and operational intelligence.
 
-Disabled people participate directly within governance, strategic planning, AI evaluation, and organisational decision-making.
+Disabled people have sustained influence within governance, strategic planning and relevant AI evaluation. Participation begins with framing at every level; this stage concerns continuity, resources and meaningful power to change decisions.
 
-AI systems actively support participation, predict barriers, and improve inclusion outcomes responsibly.
+The organisation responsibly chooses whether and how AI supports participation, and may decline, suspend or retire an unsuitable use. Any claimed prediction or improvement requires actual bounded evidence, not a maturity label.
 
 The organisation continuously learns, adapts, measures, governs, and improves inclusion over time.
 
@@ -471,3 +475,11 @@ It must determine whether inclusion is genuinely embedded into governance, cultu
 As organisations increasingly rely on AI-assisted systems, accessibility maturity becomes inseparable from governance quality, organisational trust, operational resilience, and ESG credibility.
 
 The organisations that succeed will not simply be the ones that comply with accessibility standards. They will be the ones capable of continuously designing systems, services, operational models, and AI-enabled experiences that allow disabled people to participate with comparable confidence, dignity, autonomy, and opportunity at scale.
+
+## Applying version 2.0.0
+
+Use the assessment runbook and templates for scope, participation, evidence, challenge, decisions, improvement and reassessment. Do not average dimensions, equate paperwork with delivery or infer low maturity from missing evidence. Preserve serious barriers and contradictory findings. Record Not determined where no complete level is supported.
+
+The [Double FW crosswalk](DOUBLE_FW_DELIVERY_CROSSWALK.md) routes owning procedures; [external coverage](EXTERNAL_MODEL_COVERAGE.md) identifies inspected topics/categories, alternatives and unverified instruments. The [conflict register](CONFLICT_REGISTER.md) applies Double FW methodology preference with actual obligations kept separate. Existing source identities and exact revisions remain visible.
+
+All assessment examples are fictional. No independent human calibration, participant review, live assessment, certification or legal conformity finding is supplied by this documentation. Keep actual sensitive records in approved organisational systems. The unchanged [MIT licence](LICENSE) applies to original Double FW material; external sources keep their own rights.
