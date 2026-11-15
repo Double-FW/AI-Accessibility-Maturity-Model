@@ -1,5 +1,12 @@
 # Change log
 
+## Publishing integration — 15 November 2026
+
+- Add fixed-destination weekly/manual Hugging Face export and guarded publication.
+- Include only approved current guidance, exact source context and provenance; exclude historical duplicate corpora and code.
+- Keep assessment method version 2.0.0 and pending validation states unchanged.
+- Add export/publication tests and setup instructions; first authenticated publication remains to be verified.
+
 ## 2.0.0 — 15 November 2026 — draft for practitioner pilot
 
 - Preserve six dimensions and five level names; qualify the comparison with established models and dynamic-AI claims.
