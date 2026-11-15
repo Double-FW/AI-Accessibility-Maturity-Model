@@ -45,9 +45,9 @@ These local AMM-C IDs are distinct from historical S001–S004, local AMM-D crit
 | AMM-C016 | [templates/decision-record.md](../templates/decision-record.md) | `bb81f9802d15f15dc98d7a162fb83e6701c36bb58025dd5bdd1c79cda125c33b` |
 | AMM-C017 | [templates/improvement-plan.md](../templates/improvement-plan.md) | `3b6eb0e211db6355039cdf2c616e75dfb1c1956524b655f94be6152c60b60f60` |
 | AMM-C018 | [templates/report.md](../templates/report.md) | `10eb4b209b4b69ad2107c9e20d95e7d4132fcc9712ae928d56d573591fa4735a` |
-| AMM-C019 | [README.md](../README.md) | `60c58be329131f2d740dfed70fb6361314476b67f8b02ffc47b25ee42a3b6d53` |
+| AMM-C019 | [README.md](../README.md) | `2387e0e0edc83f9e57f0e264b9f5b0761f415344580da0fc2123d74ed78a4478` |
 | AMM-C020 | [AGENTS.md](../AGENTS.md) | `b35784bab25a982eeca151d5f511fdc0c01d4731d5436e765f73d788d680055c` |
-| AMM-C021 | [CHANGELOG.md](../CHANGELOG.md) | `b578a35a37927e2edb744b25c1b2ce25d80e0461b3c4029587f721cd3702b4c7` |
+| AMM-C021 | [CHANGELOG.md](../CHANGELOG.md) | `77e7c0ff816db9e5b4581a2d17360b13f308041931b998c2454fd24327987283` |
 | AMM-C022 | [AI-AMM-RAG-and-Prompts/README.md](README.md) | `b4ec529c975ebaaa2ec2164c89e57b584aff5fd03034631cb4a40feda8653914` |
 | AMM-C023 | [AI-AMM-RAG-and-Prompts/Programme_Management_Activities_and_Prompts.md](Programme_Management_Activities_and_Prompts.md) | `4fd95873f61eb847334f0b6135163c851030d69119ceff9191c26e1f93e75731` |
 | AMM-C024 | [LICENSE](../LICENSE) | `718328364da5d7ba8e2fe2b00e16126f46714ef2d2e9d16b04cf2706d48142f1` |
@@ -59,3 +59,5 @@ The older RAG reference/coverage and four `Sources/` copies remain a dated four-
 Retrieve the full criterion decision rules with a cell, the scope/measurement limits with outcome guidance, and the source/coverage limits with an external mapping. Headings and whole table rows are useful retrieval boundaries; do not split away qualifiers or silently truncate compound evidence. File/section/revision citations are pointers, not an assurance that a consuming system actually retrieved the context.
 
 Smoke questions for a consumer: Does missing evidence imply Reactive? Can an average hide a blocked payment task? Does a planned drill prove live AI fairness? Does zero complaints show satisfaction? Are the external mappings complete proprietary instruments? Can the highest level be justified merely by adopting AI? Retrieve the controlling current guidance and answer each without relying on an old snapshot. Actual deployment evaluation remains the consumer’s responsibility.
+
+Publishing setup, configuration, code, tests and workflows are infrastructure outside this assessment-source index. See [publication setup](../huggingface/SETUP.md) for authoring/publishing maintenance; it is not training content.

@@ -59,6 +59,12 @@ The older [RAG reference](AI-AMM-RAG-and-Prompts/RAG_Reference.md), [coverage re
 
 See [change log](CHANGELOG.md). Structural checks and authored desk cases are recorded separately from independent review and real pilot evidence.
 
+## Hugging Face dataset and weekly updates
+
+The current assessment guidance is published to [GarethFW/AI_Accessibility_Maturity_Model](https://huggingface.co/datasets/GarethFW/AI_Accessibility_Maturity_Model). See [setup and verification](huggingface/SETUP.md) for the one-time HF_TOKEN secret and first run.
+
+The workflow supports manual publication and Mondays at 07:37 UTC, subject to GitHub scheduling/inactivity rules. It exports only explicitly approved committed current guidance, preserving exact text, source metadata, MIT terms, fictional/template labels and pilot limits. Historical RAG/source copies and code are excluded. Dataset views overlap and must not be combined as independent evidence. The generated Hugging Face card is separate from this authoring README. Publication is confirmed by the workflow result and destination provenance, not by adding these files.
+
 ## Licence
 
 Original Double FW material is available under the unchanged [MIT licence](LICENSE), copyright (c) 2026 Double FW Ltd. Retain required notices. Linked models, standards and repositories keep their own rights; a link or free download does not relicense them or imply endorsement.
