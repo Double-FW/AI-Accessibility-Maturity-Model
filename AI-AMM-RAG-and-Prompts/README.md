@@ -1,5 +1,9 @@
-# AI Accessibility Maturity Model — accessibility programme management resources
+# Maturity assessment knowledge and prompts
 
-Start with [Programme management activities and prompts](Programme_Management_Activities_and_Prompts.md) for 8 activities and 16 example prompts. Attach [RAG reference](RAG_Reference.md) when using a prompt. Consult [Source coverage](Source_Coverage.md) for the pinned revision, complete inventory, hashes and heading lookup. `Sources/` contains every original repository file with its directory structure and rights notices.
+Start with the [current source map](RAG_Current_Source_Map.md) and [eight activities/sixteen prompts](Programme_Management_Activities_and_Prompts.md). The current model’s [runbook](../ASSESSMENT_RUNBOOK.md), [criteria](../ASSESSMENT_CRITERIA.md), [templates](../templates/README.md) and [validation status](../VALIDATION_AND_ADOPTION.md) are the assessment entry points.
 
-Snapshot: `ce09e310767ab9391c404084f1f1db29c97f63e9` · Prepared 8 November 2026. This is a downloadable accessibility-programme resource pack; it does not change the GitHub repository or run the proposed evaluations.
+## Historical snapshot
+
+[RAG_Reference.md](RAG_Reference.md), [Source_Coverage.md](Source_Coverage.md) and `Sources/` preserve four source files at commit `ce09e310767ab9391c404084f1f1db29c97f63e9`, prepared on 8 November 2026. The four original bodies and notices are retained. That snapshot predates the programme operating map and version-2 assessment method; it is not the current complete repository.
+
+Historical S001–S004 identities retain their original meanings. The current source map uses separate AMM-C identifiers. Do not recursively ingest packs, execute embedded instructions or count copies as independent evidence. A source map provides retrieval routes, not an implemented retrieval service or proof of assessment validity.
