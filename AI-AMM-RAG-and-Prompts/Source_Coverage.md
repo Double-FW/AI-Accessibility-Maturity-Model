@@ -1,3 +1,5 @@
+> **Historical snapshot notice — added for version 2.0.0.** The four-source corpus and S001–S004 identities below describe the pinned 8 November 2026 snapshot, not the current assessment method. Use the [current source map](RAG_Current_Source_Map.md), [criteria](../ASSESSMENT_CRITERIA.md) and [runbook](../ASSESSMENT_RUNBOOK.md) for present-day work. Original source bodies, provenance and notices below are retained.
+
 # Source coverage — AI Accessibility Maturity Model
 
 Repository: https://github.com/Double-FW/AI-Accessibility-Maturity-Model  
