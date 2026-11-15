@@ -9,6 +9,8 @@ status: "source_snapshot_with_editorial_navigation"
 source_file_count: 4
 ---
 
+> **Historical snapshot notice — added for version 2.0.0.** The four-source corpus and S001–S004 identities below describe the pinned 8 November 2026 snapshot, not the current assessment method. Use the [current source map](RAG_Current_Source_Map.md), [criteria](../ASSESSMENT_CRITERIA.md) and [runbook](../ASSESSMENT_RUNBOOK.md) for present-day work. Original source bodies, provenance and notices below are retained.
+
 # AI Accessibility Maturity Model: RAG reference
 
 This reference contains the complete UTF-8 content of every tracked file in the inspected repository snapshot, including principles, policies, techniques, methods, tests, examples, references and supporting files. No source body has been abridged. Original bytes are also retained under `Sources/`; the coverage register records every blob and byte count. Attribution and rights notices remain part of the source, including any differing file-level notices.
